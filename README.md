@@ -1,10 +1,15 @@
 <div align="center">
 
-<!-- Animated 3D Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=350&section=header&text=TECHSY&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=40&desc=🚀%20ENTERPRISE%20AI%20SOLUTIONS%20🚀&descAlignY=65&descSize=20&stroke=667eea&strokeWidth=3" width="100%"/>
+<!-- Sleek Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:667eea,100:764ba2&height=220&section=header&text=&fontSize=0" width="100%"/>
 
-<!-- Glowing Animated Logo -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+BUILDING+THE+FUTURE+WITH+AI+%E2%9A%A1;%F0%9F%94%A5+FROM+CONCEPT+TO+PRODUCTION+%F0%9F%94%A5;%F0%9F%8C%8D+YOUR+GLOBAL+TECH+PARTNER+%F0%9F%8C%8D" alt="Typing SVG" />
+<!-- Main Logo -->
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=70&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=100&lines=TECHSY" alt="TECHSY" />
+
+<br/>
+
+<!-- Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Enterprise+AI+Solutions;Building+the+Future+with+AI;From+Concept+to+Production+in+Weeks;Your+Global+Technology+Partner" alt="Tagline" />
 
 <br/>
 
