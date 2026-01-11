@@ -8,8 +8,10 @@
 
 <br/>
 
-<!-- Animated Stats Bar -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Techsy-io&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Stats"/>
+<!-- Animated Metrics -->
+<img src="https://img.shields.io/badge/dynamic/json?color=667eea&label=🏢%20ENTERPRISE&query=$.enterprise&url=https://api.countapi.xyz/hit/techsy/visits&style=for-the-badge&suffix=%20GRADE" alt="Enterprise"/>
+<img src="https://img.shields.io/github/stars/Techsy-io?style=for-the-badge&color=764ba2&logo=github&label=⭐%20STARS" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/Techsy-io?style=for-the-badge&color=f093fb&logo=github&label=👥%20FOLLOWERS" alt="Followers"/>
 
 <br/><br/>
 
@@ -38,7 +40,7 @@
 <tr>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 </td>
 <td width="50%">
@@ -242,8 +244,8 @@ const techsy = {
 
 <div align="center">
 
-<!-- Animated Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Techsy-io&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" width="100%"/>
+<!-- Animated Tech Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 </div>
 
