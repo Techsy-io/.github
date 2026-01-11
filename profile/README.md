@@ -11,13 +11,6 @@
 <!-- Tagline -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Enterprise+AI+Solutions;Building+the+Future+with+AI;From+Concept+to+Production+in+Weeks;Your+Global+Technology+Partner" alt="Tagline" />
 
-<br/>
-
-<!-- Animated Metrics -->
-<img src="https://img.shields.io/badge/dynamic/json?color=667eea&label=🏢%20ENTERPRISE&query=$.enterprise&url=https://api.countapi.xyz/hit/techsy/visits&style=for-the-badge&suffix=%20GRADE" alt="Enterprise"/>
-<img src="https://img.shields.io/github/stars/Techsy-io?style=for-the-badge&color=764ba2&logo=github&label=⭐%20STARS" alt="Stars"/>
-<img src="https://img.shields.io/github/followers/Techsy-io?style=for-the-badge&color=f093fb&logo=github&label=👥%20FOLLOWERS" alt="Followers"/>
-
 <br/><br/>
 
 <!-- Premium Badges -->
@@ -30,14 +23,13 @@
 
 <br/>
 
-<!-- Animated Rainbow Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 <br/>
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="50"> WHO WE ARE
+## WHO WE ARE
 
 </div>
 
@@ -50,7 +42,7 @@
 </td>
 <td width="50%">
 
-### 🎯 Post-Hype AI Practitioners
+### Post-Hype AI Practitioners
 
 We don't chase trends. We **ship production-ready AI** that delivers **measurable ROI** from day one.
 
@@ -59,7 +51,7 @@ const techsy = {
   mission: "Transform businesses with AI",
   approach: "Ship fast, scale faster",
   security: ["SOC 2", "HIPAA", "GDPR"],
-  satisfaction: "4.9/5 ⭐",
+  satisfaction: "4.9/5",
   clients: "300+ enterprises"
 };
 ```
@@ -72,45 +64,53 @@ const techsy = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 <br/>
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50"> OUR SUPERPOWERS
+## WHAT WE DO
 
 <br/>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="50"/>
 <br/><br/>
-<b>🤖 ENTERPRISE AI</b>
+<b>ENTERPRISE AI</b>
 <br/><br/>
 <sub>Machine Learning<br/>Intelligent Automation<br/>Predictive Analytics<br/>NLP & Computer Vision</sub>
+<br/><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/>
 <br/><br/>
-<b>📱 MOBILE APPS</b>
+<b>MOBILE APPS</b>
 <br/><br/>
-<sub>Native iOS/Android<br/>React Native<br/>Flutter<br/>40% More Engagement</sub>
+<sub>Native iOS/Android<br/>React Native<br/>Flutter<br/>Cross-Platform</sub>
+<br/><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50"/>
 <br/><br/>
-<b>☁️ CLOUD NATIVE</b>
+<b>CLOUD NATIVE</b>
 <br/><br/>
 <sub>AWS / GCP / Azure<br/>Kubernetes<br/>Microservices<br/>Edge Computing</sub>
+<br/><br/>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/>
 <br/><br/>
-<b>🔐 SECURITY FIRST</b>
+<b>SECURITY FIRST</b>
 <br/><br/>
 <sub>SOC 2 Compliant<br/>HIPAA Ready<br/>E2E Encryption<br/>Zero Trust</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
@@ -119,110 +119,88 @@ const techsy = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 <br/>
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> TECH ARSENAL
+## TECH STACK
 
 <br/>
 
-<!-- Languages -->
 <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,java&theme=dark" alt="Languages"/>
 
 <br/><br/>
 
-<!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass&theme=dark" alt="Frontend"/>
 
 <br/><br/>
 
-<!-- Backend & DB -->
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,postgres,mongodb,redis&theme=dark" alt="Backend"/>
 
 <br/><br/>
 
-<!-- Cloud & DevOps -->
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform&theme=dark" alt="Cloud"/>
 
 <br/><br/>
 
-<!-- AI/ML -->
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI"/>
+&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge" alt="Claude"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge" alt="Claude"/>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 <br/>
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> WHY TECHSY?
+## WHY TECHSY
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║   ⚡ VELOCITY          │  Concept → Production in WEEKS, not months                  ║
-║                                                                                      ║
-║   🎯 PRECISION         │  Sub-second load times, 99.99% uptime                       ║
-║                                                                                      ║
-║   🔒 ENTERPRISE GRADE  │  SOC 2 Type II • HIPAA • GDPR • ISO 27001                   ║
-║                                                                                      ║
-║   📈 PROVEN RESULTS    │  40% engagement boost • 60% cost reduction                  ║
-║                                                                                      ║
-║   🌍 GLOBAL SCALE      │  24/7 support • Multi-region deployment                     ║
-║                                                                                      ║
-║   🤝 PARTNERSHIP       │  Dedicated account managers • Long-term vision              ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
+| | | |
+|:---:|:---:|:---:|
+| **⚡ VELOCITY** | **🎯 PRECISION** | **🔒 ENTERPRISE GRADE** |
+| Concept → Production in weeks | Sub-second load times | SOC 2 • HIPAA • GDPR |
+| | | |
+| **📈 PROVEN RESULTS** | **🌍 GLOBAL SCALE** | **🤝 PARTNERSHIP** |
+| 40% engagement boost | 24/7 multi-region support | Dedicated account managers |
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 <br/>
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> LET'S BUILD THE FUTURE
+## LET'S BUILD TOGETHER
 
 <br/>
 
 <a href="https://techsy.io">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&repeat=true&width=700&height=80&lines=🚀+READY+TO+TRANSFORM+YOUR+BUSINESS?;💡+LET'S+TURN+AI+INTO+YOUR+ADVANTAGE;⚡+BOOK+A+FREE+CONSULTATION+TODAY" alt="CTA" />
-</a>
-
-<br/><br/>
-
-<!-- CTA Buttons -->
-<a href="https://techsy.io">
-  <img src="https://img.shields.io/badge/🗓️_SCHEDULE_A_CALL-667eea?style=for-the-badge&logoColor=white" alt="Schedule"/>
+  <img src="https://img.shields.io/badge/SCHEDULE_A_CALL-667eea?style=for-the-badge" alt="Schedule"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:hello@techsy.io">
-  <img src="https://img.shields.io/badge/📧_HELLO@TECHSY.IO-764ba2?style=for-the-badge&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/HELLO@TECHSY.IO-764ba2?style=for-the-badge" alt="Email"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://techsy.io">
-  <img src="https://img.shields.io/badge/🌐_TECHSY.IO-f093fb?style=for-the-badge&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/TECHSY.IO-0d1117?style=for-the-badge" alt="Website"/>
 </a>
 
 <br/><br/>
 
-<!-- Social Links with Animation -->
 <a href="https://linkedin.com/company/techsy-io">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -234,41 +212,19 @@ const techsy = {
 <a href="https://github.com/Techsy-io">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
-<a href="https://discord.gg/techsy">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 <br/>
 
 <div align="center">
 
-<!-- Animated Tech Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,50:667eea,100:0d1117&height=120&section=footer" width="100%"/>
 
-</div>
-
-<br/>
-
-<!-- Epic Footer -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=5000&pause=2000&color=667EEA&center=true&vCenter=true&repeat=true&width=500&lines=©+2025+TECHSY+•+BUILDING+THE+FUTURE+WITH+AI" alt="Footer" />
-
-<br/>
-
-**`< BUILT WITH 💜 BY TECHSY />`**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Techsy-io&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile Views"/>
+<sub>© 2025 Techsy • Building the Future with AI</sub>
 
 </div>
